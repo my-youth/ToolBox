@@ -10,9 +10,9 @@ ToolBox是业余学习VBA编写的Excel插件，整合了部分网友的代码�
 
 ## 安装方法：
 1. 将ToolBox.xlam文件复制到Office加载项文件夹：%userprofile%\AppData\Roaming\Microsoft\AddIns；
-   ![](file://D:/文档/Gridea/post-images/1576918597308.png)
+   ![](https://s1.ax1x.com/2020/04/24/Jr0MLQ.png)
 2. 回到Excel中，启用开发工具选项卡，在Excel加载项中勾选ToolBox即可使用。
-   ![](file://D:/文档/Gridea/post-images/1576918658413.png)
+   ![](https://s1.ax1x.com/2020/04/24/Jr0Giq.png)
 
 ## 更新日志：
 1. 2020/4/14     新增：增加了工作表和工作簿解密功能，工作簿解密功能会丢失VBA工程数据。
