@@ -21,15 +21,15 @@ ToolBox是业余学习VBA编写的Excel插件，整合了部分网友的代码�
 ## 主要功能
 ### 1. 选项卡功能
    1. 常用功能。整合Excel各个选项卡中常用的命令，如清除、冻结窗格、排序和筛选、数据透视向导等；
-   ![常用功能](file://D:/文档/Gridea/post-images/1576917720096.png)
+   ![常用功能](https://s1.ax1x.com/2020/04/24/Jr0oFI.png)
    1. BOE工具。是针对BOE开发的方便工作的工具。除了跳转命令外， 主要有加权Cycle Time的计算、字符合并的Plus版本和基板切割计算；
-   ![BOE工具](file://D:/文档/Gridea/post-images/1576917748563.png)
+   ![BOE工具](https://s1.ax1x.com/2020/04/24/Jr07fP.png)
    1. 数据处理。主要有区域转图、字符的合并和提取、表单处理、单元格处理、VBA功能的加解密；
-   ![数据处理](file://D:/文档/Gridea/post-images/1576917783476.png)
+   ![数据处理](https://s1.ax1x.com/2020/04/24/Jr0L6S.png)
    1. 其他小工具。有从图表标签转移过来的取色器、二维码功能、翻译插件、个人所得税计算、进制转换、词频分析、批量插入图片、文件树等。
-   ![工具集](file://D:/文档/Gridea/post-images/1576917899481.png)
+   ![工具集](https://s1.ax1x.com/2020/04/24/JrBSkn.png)
    1. 万能输入表。整合了[拉小登](http://www.ladeng6666.com/blog/)的万能输入表，可以将二维表快速转换为一维表。
-   ![万能输入表](file://D:/文档/Gridea/post-images/1576918123014.png)
+   ![万能输入表](https://s1.ax1x.com/2020/04/24/JrBF6U.png)
 ### 2. 自定义函数
    根据需求，编写了很多Function，包含“Y_”开头的函数和“P_”开头的函数，其中“P_”来自[拉小登](http://www.ladeng6666.com/blog/)。
-   ![Y_函数](file://D:/文档/Gridea/post-images/1576918279721.png)
+   ![Y_函数](https://s1.ax1x.com/2020/04/24/JrBufx.png)
