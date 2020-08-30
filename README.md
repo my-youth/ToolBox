@@ -4,7 +4,7 @@ ToolBox是业余学习VBA编写的Excel插件，整合了部分网友的代码�
 从2018年初开始学习VBA，学习过程中，不断遇到实际需要解决的问题，于是萌生了编写一个工具的想法，ToolBox就此诞生了。此过程中参考借鉴了很多网友的代码，也整合了进来，现在全部释放出来，仅供参考使用。
 ![](https://s1.ax1x.com/2020/04/24/Jr09MD.png)
 
->下载地址：[Github](https://github.com/my-youth/ToolBox)   [百度网盘](https://pan.baidu.com/s/14coXQLpKg1moJCYvOfzMGg)   [天翼云盘](https://cloud.189.cn/t/32aaAbJNbAry)
+>下载地址：[Github](https://github.com/my-youth/ToolBox/releases)   [百度网盘](https://pan.baidu.com/s/14coXQLpKg1moJCYvOfzMGg)   [天翼云盘](https://cloud.189.cn/t/32aaAbJNbAry)
 
 <hr style="height:10px;border:none;border-top:10px groove skyblue;" />
 
